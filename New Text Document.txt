@@ -1,1 +1,1 @@
-Pavyzdys(Pakeitimas A)
+Pavyzdys(Pakeitimas A, Pakeitimas B)
